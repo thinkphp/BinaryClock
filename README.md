@@ -1,7 +1,7 @@
 BinaryClock
 ======================
 
-Binary clock
+This plugin MooTools provides functionality for displaying simple binary clock on a page.
 
 ![Screenshot](http://farm5.static.flickr.com/4031/5078844863_bffbee21b2_b.jpg)
 
