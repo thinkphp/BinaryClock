@@ -3,7 +3,7 @@ BinaryClock
 
 Binary clock
 
-![Screenshot](http://farm5.static.flickr.com/4148/5070795205_8542802e5c_z.jpg)
+![Screenshot]()
 
 How to use
 ----------
