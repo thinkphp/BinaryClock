@@ -3,5 +3,5 @@ author: thinkphp
 current: v1.0  
 category: widgets  
 tags: [time,clock,binary,periodical,tobin]
-docs:  
+docs: http://github.com/thinkphp/BinaryClock/blob/master/Docs/BinaryClock.md 
 demo: http://thinkphp.github.com/BinaryClock/ 
