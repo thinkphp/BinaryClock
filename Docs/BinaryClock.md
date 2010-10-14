@@ -1,7 +1,7 @@
 Class: BinaryClock (#BinaryClock)
 ========================================================
 
-Show you binary time in canvas element html.
+This plugin MooTools provides functionality for displaying simple binary clock on a page.
 
 
 BinaryClock Method: constructor(#BinaryClock: constructor)
