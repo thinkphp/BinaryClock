@@ -25,3 +25,8 @@ In your HTML body:
 
            #HTML
            <canvas id="mycanvas" height="240" width="320"></canvas>
+
+In your HEAD Style:
+
+           #CSS
+           #mycanvas{border: 1px solid #000;}
